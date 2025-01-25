@@ -1,0 +1,17 @@
+Action, Value
+reload, -
+quit, q
+help, h
+changePath, p
+forward, f
+back, b
+up, u
+down, d
+copy, c
+remove, r
+sort, s
+byLwt, l
+bySize, s
+byName, n
+confirm, y
+only, o
