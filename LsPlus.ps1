@@ -277,7 +277,7 @@ while ($input -ne $quit) {
 		}
 		clear
 	} elseif ($input -eq $help) {
-		write-host("`b `nCommands:`n`n   [$forward] Enter directory/Run file   [$back] Back to parent directory`n`n   [$only] Show only directory/file   [$sort] Sort`n`n   [$changePath] Change path   [$copy] Copy   [$remove]Remove")
+		write-host("`b `nCommands:`n`n   [$forward] Enter directory/Run file   [$back] Back to parent directory`n`n   [$only] Show only directory/file   [$sort] Sort`n`n   [$changePath] Change path   [$copy] Copy     [$remove] Remove")
 		$input = getInput
 		clear
 		continue
