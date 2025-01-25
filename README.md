@@ -7,7 +7,7 @@ LsPlus is a minimal command line tool designed to enhance folder navigation. Dev
 This script is designed to be executed from the terminal and is immediately ready for use upon invocation.
 The motivation is easy: get file and folder sizes at a glance. Indeed, this is yet not included in Windows default Explorer.
 
-![Sort](es/sort.png)
+![Sort](res/sort.png)
 
 ## ⚙️ Parameters
 The script accepts four optional parameters:
