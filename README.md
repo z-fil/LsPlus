@@ -1,19 +1,13 @@
 # 📂 LsPlus: Instant file navigation from command line
 LsPlus is a minimal command line tool designed to enhance folder navigation. Developed as a school project, LsPlus provides flexible options for viewing and managing directory contents.
 
-<div align="center">
-  <img src="res/main.png" alt="Main screen" height="400">
-</div>
-
 ![Main](res/main.png)
 
 ## 💡 Overview
 This script is designed to be executed from the terminal and is immediately ready for use upon invocation.
 The motivation is easy: get file and folder sizes at a glance. Indeed, this is yet not included in Windows default Explorer.
 
-<div align="center">
-  <img src="res/sort.png" alt="Sort" height="200">
-</div>
+![Sort](es/sort.png)
 
 ## ⚙️ Parameters
 The script accepts four optional parameters:
@@ -45,9 +39,7 @@ The following commands are available while using the tool (default values in par
     - File (F): Shows only files.
     - All (A): Shows all files.
 
-<div align="center">
-  <img src="res/help.png" alt="Help" height="300">
-</div>
+![Help](res/help.png)
 
 
 ## 📜 License
